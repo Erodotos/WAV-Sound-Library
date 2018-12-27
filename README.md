@@ -1,8 +1,5 @@
 # WAV-Sound-Library
 
-/**
-
-@mainpage EPL232 Assignment 4 Team Project 
 
 @author Erodotos Demetriou , Christakis Achileos
 
@@ -58,4 +55,3 @@ EXAMPLES OF USE
 
 	$./wavengine -man 
 
-*/
