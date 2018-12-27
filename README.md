@@ -35,6 +35,8 @@ DESCRIPTION
 	-encodeText, hides a text message within the audio file
 
 	-decodeText, extract hidden message from the audio file
+	
+	-delay , apply a simple echo filter on the audio file
 
 EXAMPLES OF USE
 	$./wavengine –list Windows_Error.wav Windows_Shutdown.wav
